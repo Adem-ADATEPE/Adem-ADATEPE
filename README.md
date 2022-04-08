@@ -5,7 +5,7 @@
 🔗 &nbsp;**Connect with me**
 
 <p align="left">
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/adem.adatepe/)
+<a href="https://www.instagram.com/adem.adatepe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Adem-ADATEPE" height="30" width="40" /></a>
 
 <!--
 Here are some ideas to get you started:
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/adem.adatepe/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
