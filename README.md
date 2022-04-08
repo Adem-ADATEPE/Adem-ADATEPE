@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 📫 How to reach me:[@AdemAdatepe](https://www.instagram.com/adem.adatepe/) or [@AdemAdatepe](https://tr.linkedin.com/in/adem-adatepe)
 
+🔗 &nbsp;**Connect with me**
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/adem.adatepe/)
 
 <!--
