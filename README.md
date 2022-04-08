@@ -9,6 +9,7 @@
 <a href="https://www.instagram.com/adem.adatepe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Adem-ADATEPE" height="30" width="40" /></a>
 <a href="https://tr-tr.facebook.com/adem.adatepe.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Adem-ADATEPE" height="30" width="40" /></a>
 
+<summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
 <!--
 Here are some ideas to get you started:
 
@@ -20,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
