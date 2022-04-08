@@ -10,6 +10,8 @@
 <a href="https://tr-tr.facebook.com/adem.adatepe.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Adem-ADATEPE" height="30" width="40" /></a>
 
 <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+ <p align="left">
+ <a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" target="_blank">
 <!--
 Here are some ideas to get you started:
 
