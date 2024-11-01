@@ -14,6 +14,7 @@
  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://isocpp.org/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/docker.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="angular" width="40" height="40"/> </a>
   
 <!--
 Here are some ideas to get you started:
